@@ -1,0 +1,18 @@
+C:\Users\renzo\Desktop\CURSO ASP MAXI PROGRAMA\ASP\ConexionesDB\Pokemon\Negocio\bin\Debug\negocio.dll
+C:\Users\renzo\Desktop\CURSO ASP MAXI PROGRAMA\ASP\ConexionesDB\Pokemon\Negocio\bin\Debug\negocio.pdb
+C:\Users\renzo\Desktop\CURSO ASP MAXI PROGRAMA\ASP\ConexionesDB\Pokemon\Negocio\bin\Debug\dominio.dll
+C:\Users\renzo\Desktop\CURSO ASP MAXI PROGRAMA\ASP\ConexionesDB\Pokemon\Negocio\bin\Debug\dominio.pdb
+C:\Users\renzo\Desktop\CURSO ASP MAXI PROGRAMA\ASP\ConexionesDB\Pokemon\Negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\renzo\Desktop\CURSO ASP MAXI PROGRAMA\ASP\ConexionesDB\Pokemon\Negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Desktop\CURSO ASP MAXI PROGRAMA\ASP\ConexionesDB\Pokemon\Negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\renzo\Desktop\CURSO ASP MAXI PROGRAMA\ASP\ConexionesDB\Pokemon\Negocio\obj\Debug\negocio.dll
+C:\Users\renzo\Desktop\CURSO ASP MAXI PROGRAMA\ASP\ConexionesDB\Pokemon\Negocio\obj\Debug\negocio.pdb
+C:\Users\renzo\Documents\github\Pokemon-App-\Pokemon\Negocio\bin\Debug\negocio.dll
+C:\Users\renzo\Documents\github\Pokemon-App-\Pokemon\Negocio\bin\Debug\negocio.pdb
+C:\Users\renzo\Documents\github\Pokemon-App-\Pokemon\Negocio\bin\Debug\dominio.dll
+C:\Users\renzo\Documents\github\Pokemon-App-\Pokemon\Negocio\bin\Debug\dominio.pdb
+C:\Users\renzo\Documents\github\Pokemon-App-\Pokemon\Negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\renzo\Documents\github\Pokemon-App-\Pokemon\Negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Documents\github\Pokemon-App-\Pokemon\Negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\renzo\Documents\github\Pokemon-App-\Pokemon\Negocio\obj\Debug\negocio.dll
+C:\Users\renzo\Documents\github\Pokemon-App-\Pokemon\Negocio\obj\Debug\negocio.pdb

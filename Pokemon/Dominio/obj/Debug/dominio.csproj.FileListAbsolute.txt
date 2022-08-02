@@ -1,0 +1,6 @@
+C:\Users\renzo\Desktop\CURSO ASP MAXI PROGRAMA\ASP\ConexionesDB\Pokemon\Dominio\bin\Debug\dominio.dll
+C:\Users\renzo\Desktop\CURSO ASP MAXI PROGRAMA\ASP\ConexionesDB\Pokemon\Dominio\bin\Debug\dominio.pdb
+C:\Users\renzo\Desktop\CURSO ASP MAXI PROGRAMA\ASP\ConexionesDB\Pokemon\Dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\renzo\Desktop\CURSO ASP MAXI PROGRAMA\ASP\ConexionesDB\Pokemon\Dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Desktop\CURSO ASP MAXI PROGRAMA\ASP\ConexionesDB\Pokemon\Dominio\obj\Debug\dominio.dll
+C:\Users\renzo\Desktop\CURSO ASP MAXI PROGRAMA\ASP\ConexionesDB\Pokemon\Dominio\obj\Debug\dominio.pdb
